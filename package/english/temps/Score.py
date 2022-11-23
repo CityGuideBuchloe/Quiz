@@ -42,4 +42,4 @@ class Finish_Window(QDialog):
         webbrowser.open_new_tab("https://www.instagram.com/unterwegs_inbuchloe/")
 
     def open_website(self):
-        pass # TODO
+        webbrowser.open_new_tab("https://cityguidebuchloe.github.io/")
